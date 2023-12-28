@@ -22,7 +22,7 @@ Ensure you have Axure RP 10 installed on your machine. You can download it here.
 2. Clone the Repository:  https://github.com/Keya2418/Apple-website-in-Axure-RP-10.git
 
 3. Open Axure RP File:
-Open the apple_website_redesign.rp file in Axure RP 10.
+Open the AppleWebsite.rp file in Axure RP 10.
 
 4. Preview the Prototype:
 Use Axure RP's preview feature to interact with the prototype.
