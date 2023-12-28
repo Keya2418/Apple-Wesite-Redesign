@@ -19,7 +19,7 @@ This project involves the redesign of the Apple website using Axure RP 10, a pow
 1. Install Axure RP 10:
 Ensure you have Axure RP 10 installed on your machine. You can download it here.
 
-2. Clone the Repository:
+2. Clone the Repository:  https://github.com/Keya2418/Apple-website-in-Axure-RP-10.git
 
 3. Open Axure RP File:
 Open the apple_website_redesign.rp file in Axure RP 10.
