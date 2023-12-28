@@ -10,6 +10,11 @@ This project involves the redesign of the Apple website using Axure RP 10, a pow
                                    Screenshots
      <img width="1434" alt="Screenshot 2023-12-28 at 7 28 15 AM" src="https://github.com/Keya2418/Apple-website-in-Axure-RP-10/assets/113224365/f6c8434c-ae9d-43f5-b8f3-b994af95576e">
 
+     
+<img width="1434" alt="Screenshot 2023-12-28 at 7 29 33 AM" src="https://github.com/Keya2418/Apple-website-in-Axure-RP-10/assets/113224365/a529df15-a761-4335-952a-c7dedd6b8301">
+
+
+
                                       How to View the Prototype
 1. Install Axure RP 10:
 Ensure you have Axure RP 10 installed on your machine. You can download it here.
